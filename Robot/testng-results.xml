@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1619" started-at="2016-04-26T09:20:31Z" finished-at="2016-04-26T09:20:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1619" started-at="2016-04-26T09:20:31Z" finished-at="2016-04-26T09:20:33Z">
+      <class name="Monitor.FileMonitor">
+        <test-method status="PASS" signature="RobotFile()[pri:0, instance:Monitor.FileMonitor@24273305]" name="RobotFile" duration-ms="1445" started-at="2016-04-26T14:50:31Z" finished-at="2016-04-26T14:50:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RobotFile -->
+        <test-method status="PASS" signature="SecureSite()[pri:0, instance:Monitor.FileMonitor@24273305]" name="SecureSite" duration-ms="159" started-at="2016-04-26T14:50:33Z" finished-at="2016-04-26T14:50:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecureSite -->
+      </class> <!-- Monitor.FileMonitor -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
